@@ -23,7 +23,7 @@ I am Aditya Kumar Mishra, a passionate developer with a keen interest in creatin
 Feel free to reach out to me for any inquiries or collaborations:
 
 - Email: adityakumar.mishra3566@gmail.com
-- LinkedIn: https://www.linkedin.com/in/aditya-kumar-mishra-24b771305
+- LinkedIn: www.linkedin.com/in/aditya-kumarmishra
 - Buisness mobile no.- 8434978269
 
 Thank you for visiting my portfolio!
