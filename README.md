@@ -26,4 +26,7 @@ Feel free to reach out to me for any inquiries or collaborations:
 - LinkedIn: www.linkedin.com/in/aditya-kumarmishra
 - Buisness mobile no.- 8434978269
 
+## 📊 GitHub Stats
+![Sakshi mishra](https://github-readme-stats.vercel.app/api?username=adityakrmishra&show_icons=true&theme=radical)
+
 Thank you for visiting my portfolio!
