@@ -28,6 +28,14 @@ Feel free to reach out to me for any inquiries or collaborations:
 - Buisness mobile no.- 8434978269
 
 ## 📊 GitHub Stats
-![Sakshi mishra](https://github-readme-stats.vercel.app/api?username=adityakrmishra&show_icons=true&theme=radical)
+![Aditya kr mishra](https://github-readme-stats.vercel.app/api?username=adityakrmishra&show_icons=true&theme=radical)
+# Hello, I'm Aditya Krishna Mishra! 👋
+
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakrmishra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=adityakrmishra&theme=light)](https://git.io/streak-stats)
+
 
 Thank you for visiting my portfolio!
