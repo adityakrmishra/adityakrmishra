@@ -1,7 +1,8 @@
-# Aditya Kumar Mishra's Portfolio
-# CJR CODER (Co-founder & CEO)
+# Aditya Kumar Mishra
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adityakrmishra.adityakrmishra)
 
-Welcome to my GitHub portfolio! Here you'll find a collection of my work, showcasing my skills and expertise in various areas of software development and digital services.
+Welcome to my GitHub profile! Here you'll find a collection of my work, showcasing my skills and expertise in various areas of software development and digital services.
+
 
 ## About Me
 
