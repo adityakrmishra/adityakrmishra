@@ -1,4 +1,5 @@
-# Aditya Kumar Mishra
+# Hello, I'm Aditya Krishna Mishra! 👋
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adityakrmishra.adityakrmishra)
 
 Welcome to my GitHub profile! Here you'll find a collection of my work, showcasing my skills and expertise in various areas of software development and digital services.
@@ -27,9 +28,9 @@ Feel free to reach out to me for any inquiries or collaborations:
 - LinkedIn: www.linkedin.com/in/aditya-kumarmishra
 - Buisness mobile no.- 8434978269
 
+website:- [ADITYA KR. MISHRA](https://adityakrmishra.github.io/protfolio/)
 ## 📊 GitHub Stats
 ![Aditya kr mishra](https://github-readme-stats.vercel.app/api?username=adityakrmishra&show_icons=true&theme=radical)
-# Hello, I'm Aditya Krishna Mishra! 👋
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakrmishra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
