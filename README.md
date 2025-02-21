@@ -1,4 +1,4 @@
-# Hello, I'm Aditya Krishna Mishra! 👋
+# Hello, I'm Aditya Kumar Mishra! 👋
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adityakrmishra.adityakrmishra)
 
