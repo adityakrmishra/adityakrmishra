@@ -1,5 +1,5 @@
 # Yo, I'm Aditya Kumar Mishra! 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=45&duration=3500&pause=900&width=1000&height=75&lines=Hi+%2C+Myself+ADITYA+KR+MISHRA👋;an+open+source+contributor🔥;open+for+collaboration😁)](https://git.io/typing-svg)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adityakrmishra.adityakrmishra)
 
 **16yo AI/ML Developer | Competitive Programmer | Open Source Contributor**
